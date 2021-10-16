@@ -9,7 +9,7 @@ In my lectures I tend to avoid third party libraries as long as it is reasonable
 
 ## compilation
 ```sh
-git clone https://github.com/ssloy/tinyraytracer.git
+https://github.com/lucciffer/tinyraytracer.git
 cd tinyraytracer
 mkdir build
 cd build
@@ -17,6 +17,7 @@ cmake ..
 make
 ./tinyraytracer
 ```
+After running `./tinyraytracer` output image will be generated in the `build` directory
 
 You can open the project in Gitpod, a free online dev evironment for GitHub:
 
