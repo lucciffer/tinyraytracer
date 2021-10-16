@@ -15,6 +15,7 @@ mkdir build
 cd build
 cmake ..
 make
+./tinyraytracer
 ```
 
 You can open the project in Gitpod, a free online dev evironment for GitHub:
